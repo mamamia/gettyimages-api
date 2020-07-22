@@ -1,0 +1,16 @@
+*.log
+*.orig
+.DS_Store
+node_modules
+coverage
+.vscode
+features
+test
+.gitmodules
+.eslintrc.yml
+.npmignore
+.travis.yml
+jsconfig.json
+.codeclimate.yml
+.eslintignore
+npm-debug.log
